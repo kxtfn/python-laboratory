@@ -1,0 +1,12 @@
+[
+    {"name": "Олександр", "gender": "чоловік", "height": 182},
+    {"name": "Марія", "gender": "жінка", "height": 168},
+    {"name": "Іван", "gender": "чоловік", "height": 176},
+    {"name": "Олена", "gender": "жінка", "height": 163},
+    {"name": "Данило", "gender": "чоловік", "height": 191},
+    {"name": "Оксана", "gender": "жінка", "height": 170},
+    {"name": "Петро", "gender": "чоловік", "height": 185},
+    {"name": "Ганна", "gender": "жінка", "height": 167},
+    {"name": "Максим", "gender": "чоловік", "height": 179},
+    {"name": "Софія", "gender": "жінка", "height": 164}
+]
